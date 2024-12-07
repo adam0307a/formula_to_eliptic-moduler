@@ -1,2 +1,2 @@
 # formula_to_eliptic-moduler
-![image](https://github.com/user-attachments/assets/397b0185-7f7f-474a-b9d0-14217b54d10e)
+![image](https://github.com/user-attachments/assets/d137a8f9-ec4d-45a2-a8b7-75c34f976d5f)
